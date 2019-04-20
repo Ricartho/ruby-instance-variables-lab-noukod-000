@@ -1,9 +1,9 @@
 class Dod 
   def name=(thisname)
-    @name= thisname
+    @this_dogs_name= thisname
   end
   
 def name
-  @name
+  @this_dogs_name
 end 
 end 
